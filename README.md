@@ -4,15 +4,12 @@
 </h1>
 
 <p align="center">
-  [cite_start]Estudiante de 7.º semestre de Tecnologías de la Información en CUCEA (Universidad de Guadalajara)[cite: 7, 18, 19], apasionado por el desarrollo de software y la gestión de bases de datos. [cite_start]Siempre buscando aprender nuevas tecnologías y contribuir en proyectos desafiantes[cite: 8].
+  Estudiante de 7.º semestre de Tecnologías de la Información en CUCEA (Universidad de Guadalajara), apasionado por el desarrollo de software y la gestión de bases de datos. Siempre buscando aprender nuevas tecnologías y contribuir en proyectos desafiantes.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-gomez-rodriguez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rafaelrrgrrg13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -56,6 +53,6 @@
 <h2 align="center">📊 Mis Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaGo89&show_icons=true&theme=dracula&locale=es" alt="Estadísticas de RafaGo89" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaGo89&layout=compact&theme=dracula&locale=es" alt="Lenguajes más usados por RafaGo89" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaGo89&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de RafaGo89" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaGo89&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados por RafaGo89" />
 </p>
