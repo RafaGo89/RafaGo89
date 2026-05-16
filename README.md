@@ -35,6 +35,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+        <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" atl="MongoDB">
       </td>
     </tr>
     <tr>
@@ -42,6 +43,7 @@
         <strong>Cloud & DevOps</strong><br><br>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Google Cloud">
       </td>
       <td align="center">
         <strong>Análisis de Datos y Herramientas</strong><br><br>
@@ -55,6 +57,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </td>
     </tr>
   </table>
@@ -68,10 +71,10 @@
   <table style="margin: 0 auto; border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RafaGo89&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de RafaGo89" height="160" />
+        <img src="https://github-readme-stats.shion.dev/api?username=RafaGo89&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaGo89&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados por RafaGo89" height="160" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RafaGo89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
       </td>
     </tr>
   </table>
