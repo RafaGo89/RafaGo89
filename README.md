@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  💻 Actualmente me desempeño como <strong>Infrastructure and Operation Support Intern</strong> en el equipo de <strong>Cloud Operations</strong> en <strong>Baxter</strong>.
+  💻 Actualmente me desempeño como <strong>Infrastructure and Operation Support Intern</strong> en el equipo de <strong>Cloud Operations</strong> en <strong>Baxter México</strong>.
 </p>
 
 <p align="center">
